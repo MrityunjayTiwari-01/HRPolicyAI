@@ -1,2 +1,5 @@
 .env
-ragenv
+__pycache__/
+*.pyc
+ragenv/
+.venv/
